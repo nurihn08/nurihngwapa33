@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     
-    <title>Document</title>
+    
 </head>
 <body background="background.jfif"
     <h1 style="font-size: 40px;"> ABOUT ME•⊹₊ </h1>
