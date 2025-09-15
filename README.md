@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title> NUR-IHN </title>
+    
     <title>Document</title>
 </head>
 <body background="background.jfif"
